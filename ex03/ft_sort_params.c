@@ -6,7 +6,7 @@
 /*   By: ydumaine <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/27 13:16:53 by ydumaine          #+#    #+#             */
-/*   Updated: 2022/01/29 18:56:02 by ydumaine         ###   ########.fr       */
+/*   Updated: 2022/01/30 13:04:40 by ydumaine         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>
@@ -56,7 +56,7 @@ void	ft_tri(int	*classe, int argc, char **argv)
 {
 	int	i;
 	int	j;
-	int x;
+	int	x;
 
 	i = 1;
 	while (i <= argc - 2)
